@@ -1,0 +1,23 @@
+{
+    "validUser": {
+      "username": "rojendangol1@gmail.com",
+      "password": "100daysofpython"
+    },
+    "invalidUserPass": {
+      "username": "students",
+      "password": "Password1234"
+    },
+    "name": {
+      "fname": "Rojen",
+      "lname": "Dangol"
+    },
+    "bday": {
+      "bday": "2001-09-13"
+    },
+    "email": {
+      "email": "rojendangol1@gmail.com"
+    },
+    "phone": {
+      "phone": "9862584076"
+    }
+  }
